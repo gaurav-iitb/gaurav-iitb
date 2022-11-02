@@ -32,6 +32,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gauraviitb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gauraviitb" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-iitb&show_icons=true&locale=en&layout=compact" alt="gaurav-iitb" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-iitb&show_icons=true&locale=en" alt="gaurav-iitb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-iitb&show_icons=true&locale=en&layout=compact" alt="gaurav-iitb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-iitb&show_icons=true&locale=en" alt="gaurav-iitb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-iitb&" alt="gaurav-iitb" /></p>
